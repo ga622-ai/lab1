@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-  std::cout << "Hello, Hi, World" << std::endl;
+  std::cout << "Hello, new_branch" << std::endl;
   return 0;
 }
